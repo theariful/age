@@ -1,5 +1,5 @@
 print ("hello")
 
-age = 5
+agd = 5
 
 print(a)
